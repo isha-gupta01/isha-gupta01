@@ -18,7 +18,7 @@
   - **Tools**: Git, GitHub, Postman, VS Code  
 - 💼 Recently interned at **Ftechiz Solutions** building production-ready frontend apps  
 - 💡 I'm passionate about building fast, user-friendly web experiences  
-- 📬 Reach me at: yash526452@gmail.com
+- 📬 Reach me at: ishaguptavnsv@gmail.com
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Project | Description | Tech Stack | Live Link |
 |--------|-------------|------------|-----------|
-| **[School Website](https://www.greenheavenacademy.in/)** | Freelance project for a school website | Next.js, TailwindCSS, Git | 🌐 |
-| **[Twitter Clone](https://twitter-clone-tweets.vercel.app/)** | A full-stack Twitter clone with media-rich tweets, real-time group chats, and secure user authentication. Features include profile customization, live user search, posting tweets and a responsive UI. | Next.js, React.js, Express.js, TailwindCSS, MongoDB, Cloudinary + multer  | 🌐 |
-| **[E-Commerce Website](https://vistora-ecomm.vercel.app/)** | A modern full-stack e-commerce platform featuring product browsing, cart management, and a responsive, user-friendly interface. Built with Next.js and styled using TailwindCSS, it offers dynamic routing, smooth UI transitions, and clean product displays for a real shopping experience. | React.js, Express.js, TailwindCSS, MongoDB, JWT  | 🌐 |
-| **[FoodCription](https://food-cription.vercel.app/)** | Food prescription website focused on user-friendly UI & SEO | Next.js, React.js, TailwindCSS | 🌐 |
-| **[DrumKit](https://isha-gupta01.github.io/DrumKit-01/)** |  DrumKit which plays different sounds after pressing keys in keyboard. | HTML, CSS, JS | 🌐 |
+| **[School Website](https://www.greenheavenacademy.in/)** | Freelance project for a school website | Next.js, TailwindCSS, Git | [🌐](https://www.greenheavenacademy.in/) |
+| **[Twitter Clone](https://twitter-clone-tweets.vercel.app/)** | A full-stack Twitter clone with media-rich tweets, real-time group chats, and secure user authentication. Features include profile customization, live user search, posting tweets and a responsive UI. | Next.js, React.js, Express.js, TailwindCSS, MongoDB, Cloudinary + multer  | [🌐](https://twitter-clone-tweets.vercel.app/) |
+| **[E-Commerce Website](https://vistora-ecomm.vercel.app/)** | A modern full-stack e-commerce platform featuring product browsing, cart management, and a responsive, user-friendly interface. Built with Next.js and styled using TailwindCSS, it offers dynamic routing, smooth UI transitions, and clean product displays for a real shopping experience. | React.js, Express.js, TailwindCSS, MongoDB, JWT  | [🌐](https://vistora-ecomm.vercel.app/) |
+| **[FoodCription](https://food-cription.vercel.app/)** | Food prescription website focused on user-friendly UI & SEO | Next.js, React.js, TailwindCSS | [🌐](https://food-cription.vercel.app/) |
+| **[DrumKit](https://isha-gupta01.github.io/DrumKit-01/)** |  DrumKit which plays different sounds after pressing keys in keyboard. | HTML, CSS, JS | [🌐](https://isha-gupta01.github.io/DrumKit-01/) |
 
 ---
 
