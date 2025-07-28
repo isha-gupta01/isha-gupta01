@@ -72,8 +72,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=radical&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=radical&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=radical&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=radical&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=radical&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=radical&logo=typescript&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=radical&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=radical&logo=netlify&logoColor=#00C7B7) 
@@ -87,7 +85,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=radical&logo=react&logoColor=%2361DAFB) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=radica&logo=vite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=radical&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=radical&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=radical&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=radical&logo=git&logoColor=white)
 
