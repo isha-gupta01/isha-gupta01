@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://www.greenheavenacademy.in/">School Website</a></strong></td>
-    <td>Freelance project for a school website</td>
+    <td><b>Freelanced</b> project for a school website</td>
     <td>Next.js, TailwindCSS, Git</td>
     <td><a href="https://www.greenheavenacademy.in/">🌐</a></td>
   </tr>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://food-cription.vercel.app/">FoodCription</a></strong></td>
-    <td>SEO-friendly food prescription platform with intuitive UI.</td>
+    <td><b>Freelanced</b> project,SEO-friendly food prescription platform with intuitive UI.</td>
     <td>Next.js, React.js, TailwindCSS</td>
     <td><a href="https://food-cription.vercel.app/">🌐</a></td>
   </tr>
