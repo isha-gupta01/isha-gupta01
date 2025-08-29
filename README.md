@@ -103,13 +103,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isha-gupta01&theme=radical&no-frame=false&margin-w=10&row=1&column=6" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
