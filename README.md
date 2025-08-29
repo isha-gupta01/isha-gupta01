@@ -18,7 +18,7 @@
 ## 👩‍💻 About Me
 
 - 🌱 I’m currently learning **Full Stack Web Development** with a focus on React, Next.js, and MongoDB  
-- 💼 Recently interned at **Ftechiz Solutions** building production-ready frontend apps  
+- 💼 Recently interned at **Ftechiz Solutions** building frontend apps  
 - 💡 Passionate about creating fast, responsive, and accessible web applications  
 - 📬 Reach me at: `ishaguptavnsv@gmail.com`
 
