@@ -18,8 +18,7 @@
 ## 👩‍💻 About Me
 
 - 🌱 I’m currently learning **Full Stack Web Development** with a focus on React, Next.js, and MongoDB  
-💼 💼 **Open Source Contribution Journey**[█░░░░░░░░░░░░░░] 5% and growing 🚀
-
+- 💼 **Open Source Contribution Journey**[█░░░░░░░░░░░░░░] 5% and growing 🚀
 - 💡 Passionate about creating fast, responsive, and accessible web applications  
 - 📬 Reach me at: `ishaguptavnsv@gmail.com`
 
