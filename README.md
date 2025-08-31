@@ -76,7 +76,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=radical&logo=netlify&logoColor=#00C7B7) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=radical&logo=bootstrap&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=radical&logo=express&logoColor=%2361DAFB) 
-![TailwindCSS]((https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=radical&logo=tailwindcss&logoColor=%2361DAFB)) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=radical&logo=tailwindcss&logoColor=%2361DAFB) 
 ![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=radical&logo=nodemon&logoColor=%BBDEAD) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=radical&logo=node.js&logoColor=white) 
 ![NextJS](https://img.shields.io/badge/Next-black?style=radical&logo=next.js&logoColor=white) 
