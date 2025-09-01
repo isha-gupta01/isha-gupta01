@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://bit-links-beryl.vercel.app/">BitLinks</a></strong></td>
-    <td>**BitLinks** is a lightweight and efficient **URL shortener** built using the **Next.js App Router** and **MongoDB**.  
+    <td>BitLinks is a lightweight and efficient URL shortener built using the Next.js App Router and MongoDB.  
 It lets users generate short, shareable links that redirect to the original URL in just a click.  
 </td>
     <td>Next.js, MongoDB, TailwindCSS</td>
